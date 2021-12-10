@@ -13,7 +13,7 @@ class ProductGridItem extends StatelessWidget {
     final auth = Provider.of<Auth>(context, listen: false);
 
     return ClipRRect(
-      borderRadius: BorderRadius.circular(10),
+      borderRadius: BorderRadius.circular(20),
       child: GridTile(
         child: GestureDetector(
           child: Image.network(
