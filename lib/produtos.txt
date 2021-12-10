@@ -1,0 +1,82 @@
+[
+    Product(
+      id: 'p1',
+      title: 'Reconstrutor Amávia',
+      description: 'A red shirt - it is pretty red!',
+      price: 149.99,
+      imageUrl:
+          'https://tfcqb6.vteximg.com.br/arquivos/ids/156062-1000-1000/repair-complex.jpg?v=637534113207830000',
+    ),
+    Product(
+      id: 'p2',
+      title: 'Liso Nobre',
+      description: 'A nice pair of trousers.',
+      price: 119.99,
+      imageUrl:
+          'https://cf.shopee.com.br/file/460ca01846a5b6d5c0e07e7e6457688d',
+    ),
+    Product(
+      id: 'p3',
+      title: 'Linha Antiqueda',
+      description: 'Warm and cozy - exactly what you need for the winter.',
+      price: 139.99,
+      imageUrl:
+          'https://a-static.mlcdn.com.br/1500x1500/kit-antiqueda-e-crescimento-capilar-energy-complex-amavia/srtacarvalhomaquiagemecosmeticos/8829732982/770f28066eea13986546b2d50985f69b.jpg',
+    ),
+    Product(
+      id: 'p4',
+      title: 'Linha Cachos',
+      description: 'Prepare any meal you want.',
+      price: 99.99,
+      imageUrl:
+          'https://static3.tcdn.com.br/img/img_prod/874112/kit_make_curl_gelatina_umidificador_spray_umectante_amavia_581_1_20201214024417.png',
+    ),
+     Product(
+      id: 'p5',
+      title: 'Reparação Amaka',
+      description: 'Prepare any meal you want.',
+      price: 129.99,
+      imageUrl:
+          'https://images-americanas.b2w.io/produtos/01/00/img/1644212/0/1644212033_1GG.jpg',
+    ),
+     Product(
+      id: 'p6',
+      title: 'Recontrução Mel',
+      description: 'Prepare any meal you want.',
+      price: 149.99,
+      imageUrl:
+          'https://cf.shopee.com.br/file/62cf2a87fcc1563da8ee180afef34b4d_tn',
+    ),
+     Product(
+      id: 'p7',
+      title: 'Teia Caviar',
+      description: 'Prepare any meal you want.',
+      price: 159.99,
+      imageUrl:
+          'https://http2.mlstatic.com/D_NQ_NP_731787-MLB44877532414_022021-W.jpg',
+    ),
+     Product(
+      id: 'p8',
+      title: 'Tônico crescimento',
+      description: 'Prepare any meal you want.',
+      price: 49.99,
+      imageUrl:
+          'https://www.pantovinthreetherapy.com.br/wp-content/uploads/2019/11/Design-sem-nome-10.png',
+    ),
+    Product(
+      id: 'p9',
+      title: 'Máscara senscience',
+      description: 'Prepare any meal you want.',
+      price: 119.99,
+      imageUrl:
+          'https://salaovirtual.org/wp-content/uploads/2021/04/mascara-500-ml.jpg',
+    ),
+    Product(
+      id: 'p10',
+      title: 'Kit senscience',
+      description: 'Prepare any meal you want.',
+      price: 199.99,
+      imageUrl:
+          'https://prohair.vteximg.com.br/arquivos/ids/155594-1000-1000/kit-true-hue-violet-profissional.jpg?v=637262059153070000',
+    ),
+  ]
